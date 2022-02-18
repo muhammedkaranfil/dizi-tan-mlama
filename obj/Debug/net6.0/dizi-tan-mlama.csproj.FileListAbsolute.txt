@@ -1,0 +1,15 @@
+F:\deneme1\dizi-tan-mlama\bin\Debug\net6.0\dizi-tan-mlama.exe
+F:\deneme1\dizi-tan-mlama\bin\Debug\net6.0\dizi-tan-mlama.deps.json
+F:\deneme1\dizi-tan-mlama\bin\Debug\net6.0\dizi-tan-mlama.runtimeconfig.json
+F:\deneme1\dizi-tan-mlama\bin\Debug\net6.0\dizi-tan-mlama.dll
+F:\deneme1\dizi-tan-mlama\bin\Debug\net6.0\ref\dizi-tan-mlama.dll
+F:\deneme1\dizi-tan-mlama\bin\Debug\net6.0\dizi-tan-mlama.pdb
+F:\deneme1\dizi-tan-mlama\obj\Debug\net6.0\dizi-tan-mlama.csproj.AssemblyReference.cache
+F:\deneme1\dizi-tan-mlama\obj\Debug\net6.0\dizi-tan-mlama.GeneratedMSBuildEditorConfig.editorconfig
+F:\deneme1\dizi-tan-mlama\obj\Debug\net6.0\dizi-tan-mlama.AssemblyInfoInputs.cache
+F:\deneme1\dizi-tan-mlama\obj\Debug\net6.0\dizi-tan-mlama.AssemblyInfo.cs
+F:\deneme1\dizi-tan-mlama\obj\Debug\net6.0\dizi-tan-mlama.csproj.CoreCompileInputs.cache
+F:\deneme1\dizi-tan-mlama\obj\Debug\net6.0\dizi-tan-mlama.dll
+F:\deneme1\dizi-tan-mlama\obj\Debug\net6.0\ref\dizi-tan-mlama.dll
+F:\deneme1\dizi-tan-mlama\obj\Debug\net6.0\dizi-tan-mlama.pdb
+F:\deneme1\dizi-tan-mlama\obj\Debug\net6.0\dizi-tan-mlama.genruntimeconfig.cache
